@@ -1,0 +1,27 @@
+
+body {
+    text-align: left;
+    background-color: #6b153d80;
+    color: #4d142c;
+    font-family:'Times New Roman', Times, serif
+}
+div {
+    margin: 5% 20%;
+    padding: 2%;
+    border: 10px rgb(44, 2, 31);
+    border-style: double;
+    background-color:rgba(64, 4, 34, 0.2);
+    font-size: 130%;
+}
+h1 {
+    color: rgb(139, 16, 88);
+}
+img {
+    width: 40%;
+    border: 10px solid;
+    border-radius: 40px;
+    border-color: rgba(50, 3, 32, 0.26)
+}
+span {
+    font-weight: 700;
+}
